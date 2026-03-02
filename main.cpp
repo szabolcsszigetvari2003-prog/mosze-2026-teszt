@@ -24,5 +24,6 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
 
     delete[] b; //lefoglalt memoria tisztitasa
+    std::cout << "Program vege" << std::endl;
     return 0;
 }
